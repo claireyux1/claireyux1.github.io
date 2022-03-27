@@ -1,0 +1,80 @@
+body {
+	background-color: #FFEBCD;
+	font-family: Optima, sans-serif
+}
+
+
+.footer {
+	line-height: 0.3em;
+
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+a:focus {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	background-color: #EDC5C5;
+	box-shadow: 1px 2px 10px rgba(0,0,0,.5);
+	color: black;
+}
+
+a:active {
+	text-decoration: none;
+	color: black;
+}
+
+A:link {
+	color: black;
+}
+
+
+.menu {
+	background-color: #EDC5C5;
+	position: relative;
+	top: 10 px;
+
+}
+
+.intro {
+	text-align:center;
+	font-size: 30px;
+
+}
+
+#about {
+	padding: 0px;
+	margin-top: 10px;
+}
+
+#aboutphoto {
+	padding: 0px;
+	width: 100px;
+	position: relative;
+	text-align:center;
+	margin-top: 12px;
+
+}
+
+.logo {
+	width: 100px;
+	position: relative;
+	text-align: center;
+
+}
+
+hr {
+
+	visibility:hidden;
+}
+
+
+
+

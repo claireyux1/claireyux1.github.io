@@ -1,0 +1,43 @@
+body {
+	background-color: #FFEBCD;
+	font-family: Optima, sans-serif
+}
+
+p {
+  	line-height: 1em;
+}
+
+.heading {
+	
+	line-height: 0.3em;
+}
+
+h3 {
+	font-size: 15px;
+}
+
+#education {
+	list-style-type: none;
+	margin-left: 100px;
+	padding: 0
+}
+
+#location {
+	line-height: 0.3em;
+}
+
+#role {
+	line-height: 0.3em;
+	font-style: italic;
+}
+
+#coursework {
+	line-height: 1em;
+}
+
+.logo {
+	width: 50px;
+	position: absolute;
+	top: 130px;
+	left: 30px;
+}
